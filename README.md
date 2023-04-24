@@ -61,8 +61,7 @@ CIRCUIT DIAGRAM
 
 
 FIGURE -03
-![exersise 1](https://user-images.githubusercontent.com/121215794/233992529-f9376498-e39c-4bb3-baf2-9cc126c2549b.jpg)
-
+![Uploading exersise output.jpg…]()
 
 
 
@@ -103,6 +102,5 @@ void loop()
 
 Output of the simulation :
 
-![exersise output](https://user-images.githubusercontent.com/121215794/233992579-72bd38b4-b4f3-4523-a12b-8791c3fdaab1.jpg)
-
+![Uploading exersise 1.jpg…]()
 
