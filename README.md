@@ -64,10 +64,8 @@ FIGURE -03
 
 ![Uploading exersise output.jpg…]()
 
-
-
-
 PROGRAM
+```
 int buttonstate = 0;
 void setup()
 {
@@ -89,7 +87,8 @@ void loop()
   
   delay(15);
   
-}  
+} 
+```
 Output of the simulation :
 ![exersise 1](https://user-images.githubusercontent.com/121215794/233993989-0397642e-5b31-4056-9be9-aecaa9c5b3cc.jpg)
 RESULT
